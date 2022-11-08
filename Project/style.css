@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+}
+h2{
+margin-top: 0%;
+}
+
+
+.top-container{
+    background-color: aqua;
+    
+}
+
+.middle-container{
+    background-color: blue;
+    width: 100px;
+    height:100px;
+}
+
+.bottom-container{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
